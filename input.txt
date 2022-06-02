@@ -2,3 +2,4 @@ This is from branch master
 
 This is from branch branch-C
 This is from branch branch-B
+This is from branch branch-A
